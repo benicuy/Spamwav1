@@ -1,9 +1,10 @@
-# SpamWa
+# SpamWav1
 ```
-$ pkg install python
-$ pkg install git
+$ apt update && apt upgrade -y
+$ apt install git
+$ apt install python
 $ python3 -m pip install requests
-$ git clone https://github.com/krypton-byte/SpamWa
-$ cd SpamWa
-$ python3 spam.py
+$ git clone https://github.com/benicuy/Spamwav1
+$ cd SpamWav1
+$ pyhton3 spam.py
 ```
